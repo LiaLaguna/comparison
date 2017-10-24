@@ -8,3 +8,4 @@
     3.2 Si son exactamente iguales, continuar con el proceso.
 4. Si hemos llegado a este punto, regresar verdadero.
 5. FIN.
+![Diagrama de flujo](Diagrama.jpg)
